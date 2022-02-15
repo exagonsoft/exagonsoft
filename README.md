@@ -25,7 +25,7 @@ You can see what I am currently up to on [exagonsoft.me](https://exagonsoft.me).
   - [Discord](https://discord.com/channels/943003573518745681/943003573518745685)
   - [Reddit](https://www.reddit.com/r/ExagonSoft_Work/)
 
-👉🏻👉🏻📧 Sign up for my [newsletter][5].
+
 
 ## 💥 Moust Recent Activity
 <!--START_SECTION:activity-->
