@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=exagonsoft)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=exagonsoft&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **exagonsoft/exagonsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
