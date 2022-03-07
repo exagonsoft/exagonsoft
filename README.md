@@ -1,6 +1,6 @@
 ![natterstefan](https://github.com/exagonsoft/exagonsoft/blob/main/ExagonSoft.png)
 
-https://www.linkedin.com/in/alvaro-raul-martin-peraza-165114210/
+https://developers.google.com/profile/u/exagonsoft
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=exagonsoft&color=FAC151)
 [![jabascript](https://img.shields.io/badge/Javascript-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/exagonsoft)
