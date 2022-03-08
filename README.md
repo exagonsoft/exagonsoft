@@ -1,7 +1,5 @@
 ![natterstefan](https://github.com/exagonsoft/exagonsoft/blob/main/ExagonSoft.png)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="alvaro-raul-martin-peraza-165114210" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cu.linkedin.com/in/alvaro-raul-martin-peraza-165114210/en?trk=profile-badge">Alvaro Raul Martin Peraza</a></div>
               
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=exagonsoft&color=FAC151)
