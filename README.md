@@ -19,13 +19,13 @@ You can see what I am currently up to on [exagonsoft.me](https://exagonsoft.me).
 
 ## ☏ Get in touch
 
-- Web: [exagonsoft.me](https://exagonsoft.me)
-- LinkedIn: [linkedin.com/in/exagonsoft](https://linkedin.com/in/exagonsoft)
-- Twitter: [twitter.com/@exagonsoft](https://twitter.com/@exagonsoft)<br />
+- Web: [exagonsoft.me](https://exagonsoft-site.firebaseapp.com/)
+- LinkedIn: [linkedin.com/in/exagonsoft](https://www.linkedin.com/in/alvaro-raul-martin-peraza-165114210/)
+- Twitter: [twitter.com/@exagonsoft](https://twitter.com/ExagonsoftS)<br />
 - Other Channels:
-  - [Telegram](https://t.me/exagonsoft_work)
-  - [Discord](https://discord.com/channels/943003573518745681/943003573518745685)
-  - [Reddit](https://www.reddit.com/r/ExagonSoft_Work/)
+  - [Telegram](https://t.me/exagonsoft_SL)
+  - [Discord](https://discord.com/channels/943003573518745681/943004204094595073)
+  - [Reddit](https://www.reddit.com/r/ExagonSoft_Work)
 
 
 
