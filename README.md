@@ -21,11 +21,11 @@ I am CEO and Co-Founder of ExagonSoft and Software Engineer from Cuba
 🇨🇺. I am interested in, write code, and develop (any) software solutions
 using JavaScript, C#, ReactJS, Solidity, .Net and NodeJS moustly.
 
-You can see what I am currently up to on [exagonsoft.me](https://exagonsoft.me).
+You can see what I am currently up to on [exagon-soft.com](https://exagon-soft.com).
 
 ## ☏ Get in touch
 
-- Web: [exagonsoft.me](https://exagonsoft-site.firebaseapp.com/)
+- Web: [exagon-soft.com](https://exagonsoft-site.firebaseapp.com/)
 - LinkedIn: [linkedin.com/in/exagonsoft](https://www.linkedin.com/in/alvaro-raul-martin-peraza-165114210/)
 - Twitter: [twitter.com/@exagonsoft](https://twitter.com/ExagonsoftS)<br />
 - Other Channels:
