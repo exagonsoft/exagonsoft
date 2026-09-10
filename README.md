@@ -7,13 +7,14 @@
 [![jabascript](https://img.shields.io/badge/BlockChain-Fan-FAC151.svg?logo=bitcoin&logoWidth=20)](https://github.com/exagonsoft)
 [![jabascript](https://img.shields.io/badge/GameDevelop-Fan-FAC151.svg?logo=unity&logoWidth=20)](https://github.com/exagonsoft)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=exagonsoft&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-orcin-eta.vercel.app/?username=exagonsoft&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exagonsoft&theme=gotham)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exagonsoft&theme=gotham)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exagonsoft&theme=gotham)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=exagonsoft&theme=gotham)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=exagonsoft&theme=gotham&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](https://komarev.com/ghpvc/?username=exagonsoft&style=for-the-badge&color=yellow)
+
 
 ### Hi friends 👋
 
