@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">Álvaro Raúl Martín-Peraza — ExagonSoft</title>
+  <desc id="desc">Senior Full-Stack Engineer and Product Builder</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset=".42" stop-color="#071d49"/>
+      <stop offset="1" stop-color="#003d73"/>
+    </linearGradient>
+    <radialGradient id="bloom" cx="78%" cy="42%" r="52%">
+      <stop offset="0" stop-color="#67e8f9" stop-opacity=".75"/>
+      <stop offset=".18" stop-color="#0ea5e9" stop-opacity=".38"/>
+      <stop offset=".55" stop-color="#2563eb" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#22d3ee" stop-opacity=".05"/>
+      <stop offset=".5" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity=".08"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" x2="1">
+      <stop stop-color="#fff"/>
+      <stop offset=".7" stop-color="#e0f2fe"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
+    <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse">
+      <path d="M54 0H0V54" fill="none" stroke="#38bdf8" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="500" rx="30" fill="url(#bg)"/>
+  <rect width="1600" height="500" rx="30" fill="url(#grid)"/>
+  <rect width="1600" height="500" rx="30" fill="url(#bloom)"/>
+
+  <g opacity=".48" stroke="url(#line)" fill="none">
+    <path d="M760 410C980 270 1160 420 1590 185" stroke-width="2"/>
+    <path d="M680 454C995 305 1170 458 1600 250" stroke-width="1"/>
+    <path d="M940 0C1045 120 1140 138 1600 48" stroke-width="1"/>
+  </g>
+
+  <g transform="translate(1190 238)" fill="none" stroke="#67e8f9">
+    <path d="M0-112 97-56 97 56 0 112-97 56-97-56Z" stroke-width="4" filter="url(#glow)"/>
+    <path d="M0-72 62-36 62 36 0 72-62 36-62-36Z" stroke-width="1.5" opacity=".5"/>
+    <circle cx="0" cy="-112" r="7" fill="#e0f2fe" filter="url(#glow)"/>
+    <circle cx="97" cy="-56" r="6" fill="#67e8f9" filter="url(#glow)"/>
+    <circle cx="97" cy="56" r="6" fill="#67e8f9" filter="url(#glow)"/>
+    <circle cx="0" cy="112" r="7" fill="#fff" filter="url(#glow)"/>
+    <circle cx="-97" cy="56" r="6" fill="#67e8f9" filter="url(#glow)"/>
+    <circle cx="-97" cy="-56" r="6" fill="#67e8f9" filter="url(#glow)"/>
+  </g>
+
+  <g fill="#38bdf8" opacity=".75">
+    <circle cx="1030" cy="92" r="4" filter="url(#glow)"/>
+    <circle cx="1392" cy="108" r="5" filter="url(#glow)"/>
+    <circle cx="1480" cy="322" r="4" filter="url(#glow)"/>
+    <circle cx="1010" cy="365" r="3" filter="url(#glow)"/>
+  </g>
+
+  <rect x="98" y="118" width="5" height="233" rx="3" fill="#22d3ee" filter="url(#glow)"/>
+  <text x="140" y="205" fill="url(#brand)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="750" letter-spacing="-1">Álvaro Raúl Martín-Peraza</text>
+  <text x="143" y="262" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" letter-spacing="3">SENIOR FULL-STACK ENGINEER · PRODUCT BUILDER</text>
+  <rect x="143" y="294" width="510" height="2" fill="url(#line)"/>
+  <text x="143" y="342" fill="#67e8f9" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="24" font-weight="700" letter-spacing="8">EXAGONSOFT</text>
+  <text x="143" y="382" fill="#7dd3fc" opacity=".75" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">// BUILD · SOLVE · CREATE · IMPROVE</text>
+</svg>
