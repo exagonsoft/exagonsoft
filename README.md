@@ -1,147 +1,183 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/exagonsoft/exagonsoft/main/ExagonSoft.png" alt="ExagonSoft" width="100%" />
+<img src="https://raw.githubusercontent.com/exagonsoft/exagonsoft/main/assets/profile-hero.svg" alt="Álvaro Raúl Martín-Peraza — Senior Full-Stack Engineer and Product Builder" width="100%" />
 
-# Álvaro Raúl Martín-Peraza
+<br/>
 
-### Senior Full-Stack Engineer · Product Builder · Founder of ExagonSoft
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://exagonsoft.uk/)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msc-alvaro-raul-martin-peraza-165114210/)
+[![Email](https://img.shields.io/badge/START_A_CONVERSATION-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:exagonsoft@gmail.com)
 
-<p>
-  I design and ship web, mobile, cloud, AI, and game experiences.<br/>
-  More than 15 years turning complex ideas into useful, maintainable software.
-</p>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-exagonsoft.uk-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://exagonsoft.uk/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Álvaro_Martín--Peraza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msc-alvaro-raul-martin-peraza-165114210/)
-[![Profile views](https://komarev.com/ghpvc/?username=exagonsoft&style=for-the-badge&color=FAC151&label=PROFILE+VIEWS)](https://github.com/exagonsoft)
+![15+ years](https://img.shields.io/badge/15%2B_YEARS-ENGINEERING-22D3EE?style=flat-square&labelColor=020617)
+![Web · Mobile · Cloud](https://img.shields.io/badge/WEB_·_MOBILE_·_CLOUD-PRODUCTS-38BDF8?style=flat-square&labelColor=020617)
+![Android + iOS](https://img.shields.io/badge/ANDROID_+_iOS-SHIPPED-60A5FA?style=flat-square&labelColor=020617)
+![Montevideo](https://img.shields.io/badge/MONTEVIDEO-URUGUAY-FBBF24?style=flat-square&labelColor=020617)
 
 </div>
 
----
+## Building useful things from ambitious ideas
 
-## Hello, I'm Álvaro 👋
+I'm **Álvaro**, a Cuban software engineer based in Montevideo and the creator behind **ExagonSoft**—my personal software and product brand.
 
-I'm a Cuban software engineer based in Montevideo, Uruguay, and the creator behind **ExagonSoft**, my personal software and product brand.
+I work across the entire product journey: finding the real problem, shaping the experience, choosing an architecture, writing the code, shipping the release, and learning from what happens next. My world includes responsive web platforms, cross-platform mobile apps, cloud systems, AI-assisted products, and interactive experiences.
 
-My work sits where engineering, product thinking, and entrepreneurship meet. I enjoy taking an idea from its first sketch through architecture, implementation, release, and continuous improvement—across responsive web platforms, cross-platform mobile apps, cloud services, AI-assisted products, and interactive experiences.
+> **My standard is simple:** make it useful, make it trustworthy, and make it last.
 
-- 🔭 Building products that solve practical problems
-- 🧠 Exploring applied AI, knowledge tools, and developer experience
-- 📱 Shipping for the web, Android, and iOS
-- 🎮 Creating games and interactive systems with Unity
-- 🤝 Open to meaningful product collaborations and ambitious engineering challenges
+<table>
+<tr>
+<td>🚀 <strong>Currently</strong></td>
+<td>Building independent products that turn complex workflows into clear experiences.</td>
+</tr>
+<tr>
+<td>🧠 <strong>Exploring</strong></td>
+<td>Applied AI, knowledge systems, developer tooling, and evidence-grounded automation.</td>
+</tr>
+<tr>
+<td>🤝 <strong>Open to</strong></td>
+<td>Serious product collaborations and difficult engineering challenges.</td>
+</tr>
+</table>
 
-## Products I'm building
+## Product constellation
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ [JALA](https://play.google.com/store/apps/details?id=com.exagon_soft.jala_flutter_app&hl=en)
+<h3>🛍️ JALA</h3>
 
-A global bargain marketplace created for simpler, faster, and better-organized person-to-person commerce. I work on its engineering and development as a co-founder.
+<strong>A global bargain marketplace where timing creates opportunity.</strong>
 
-[Android](https://play.google.com/store/apps/details?id=com.exagon_soft.jala_flutter_app&hl=en) · [iOS](https://apps.apple.com/us/app/jala-mercado-global-de-gangas/id6756188801)
+Simpler, faster, and better-organized person-to-person commerce. I lead engineering and development as a co-founder, shipping the experience across Android and iOS.
+
+<br/>
+
+![10K+ downloads](https://img.shields.io/badge/10K%2B-DOWNLOADS-34A853?style=flat-square)
+![Android](https://img.shields.io/badge/Android-LIVE-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-LIVE-000000?style=flat-square&logo=apple&logoColor=white)
+
+[Google Play](https://play.google.com/store/apps/details?id=com.exagon_soft.jala_flutter_app&hl=en) · [App Store](https://apps.apple.com/us/app/jala-mercado-global-de-gangas/id6756188801)
 
 </td>
 <td width="50%" valign="top">
 
-### 📌 [PinitY](https://www.pinity.uk/)
+<h3>📌 PinitY</h3>
 
-An external memory for the internet: save tabs and pages, organize knowledge, sync it across browsers, and use AI to turn a growing library into something useful.
+<strong>Your external memory for the internet.</strong>
 
-[Visit PinitY](https://www.pinity.uk/)
+Save tabs and pages, organize knowledge, synchronize it across browsers, and use AI to turn a growing personal library into something you can act on.
+
+<br/>
+
+![Knowledge](https://img.shields.io/badge/KNOWLEDGE-ORGANIZED-0EA5E9?style=flat-square)
+![AI](https://img.shields.io/badge/AI-ASSISTED-8B5CF6?style=flat-square)
+![Cross-browser](https://img.shields.io/badge/CROSS--BROWSER-SYNCED-22D3EE?style=flat-square)
+
+[Explore PinitY →](https://www.pinity.uk/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ✨ [Credraft](https://credraft.click/es)
+<h3>✨ Credraft</h3>
 
-An AI-powered CV workspace built around a transparent workflow: discover public professional evidence, verify every finding, craft the story, and export a stronger résumé.
+<strong>Professional stories built on evidence—not invention.</strong>
 
-[Explore Credraft](https://credraft.click/es)
+An AI-powered CV workspace with a transparent flow: discover public professional evidence, verify every finding, craft the story, and export a stronger résumé.
+
+<br/>
+
+![AI](https://img.shields.io/badge/AI-POWERED-8B5CF6?style=flat-square)
+![Evidence](https://img.shields.io/badge/EVIDENCE-FIRST-06B6D4?style=flat-square)
+![Bilingual](https://img.shields.io/badge/EN_·_ES-BILINGUAL-F59E0B?style=flat-square)
+
+[Discover Credraft →](https://credraft.click/es)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 [Exagon Project Insights](https://github.com/exagonsoft/ExagonProjectInsights)
+<h3>📊 Exagon Project Insights</h3>
+
+<strong>See the story hidden inside GitHub activity.</strong>
 
 A GitHub App and developer dashboard for exploring repositories, pull requests, issues, activity, and project statistics through the GitHub API.
 
-[View repository](https://github.com/exagonsoft/ExagonProjectInsights)
+<br/>
+
+![GitHub App](https://img.shields.io/badge/GITHUB-APP-181717?style=flat-square&logo=github)
+![API](https://img.shields.io/badge/API-INTEGRATION-0EA5E9?style=flat-square)
+![Open source](https://img.shields.io/badge/OPEN-SOURCE-22C55E?style=flat-square)
+
+[View the repository →](https://github.com/exagonsoft/ExagonProjectInsights)
 
 </td>
 </tr>
 </table>
 
-## Engineering toolkit
+## The systems behind the experiences
 
 <div align="center">
 
-### Web & product
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-### Mobile, cloud & emerging tech
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-
-### How I work
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,dotnet,cs,python,flutter,firebase,gcp,docker,githubactions,unity,solidity&perline=15" alt="TypeScript, JavaScript, React, Next.js, Node.js, .NET, C#, Python, Flutter, Firebase, Google Cloud, Docker, GitHub Actions, Unity, and Solidity" />
 
 </div>
 
-## What I care about
+<br/>
 
-```text
-Useful over flashy     Evidence over assumptions     Simple over accidental complexity
-Accessible by default  Secure by design              Ship, learn, improve
+| Product engineering | Platform engineering | Creative technology |
+|:---|:---|:---|
+| TypeScript, React, Next.js, Node.js | .NET, C#, Python, REST APIs | Flutter, Unity, interactive systems |
+| Accessible UI and design systems | Firebase, Google Cloud, Docker | AI integrations and rapid prototyping |
+| Product discovery through delivery | CI/CD, security, observability | Web3 and Solidity exploration |
+
+## How I turn uncertainty into software
+
+```mermaid
+flowchart LR
+    A["Discover<br/>the real problem"] --> B["Design<br/>the clear path"]
+    B --> C["Engineer<br/>the right system"]
+    C --> D["Ship<br/>the useful version"]
+    D --> E["Learn<br/>and improve"]
+    E -.-> A
 ```
-
-I care about software that earns trust: clear interfaces, sensible architecture, responsible data handling, maintainable code, and products that create measurable value for the people using them.
-
-## GitHub at a glance
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exagonsoft&theme=github_dark" alt="Álvaro's GitHub contribution summary" width="98%" />
+### Useful over flashy · Evidence over assumptions · Simple over accidental complexity
+
+</div>
+
+I care about interfaces people understand, architecture teams can evolve, responsible data handling, and products that create measurable value. The technology matters—but only because of what it enables.
+
+## Signal from the code
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exagonsoft&theme=github_dark" alt="Álvaro's GitHub contribution graph" width="98%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exagonsoft&theme=github_dark" alt="Repositories by language" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=exagonsoft&theme=github_dark" alt="GitHub statistics" width="49%" />
 
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=exagonsoft&style=flat-square&color=0ea5e9&label=PROFILE+VISITORS)
+
 </div>
 
-## Let's build something valuable
+## Let's create the next remarkable thing
 
-Have a serious product idea, a difficult engineering problem, or an opportunity to collaborate?
-
-<p align="center">
-  <a href="https://exagonsoft.uk/"><strong>Explore my work</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/msc-alvaro-raul-martin-peraza-165114210/"><strong>Connect on LinkedIn</strong></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:exagonsoft@gmail.com"><strong>Send an email</strong></a>
-</p>
-
----
+If you're working on a meaningful product, navigating a difficult technical decision, or looking for an engineer who thinks beyond the ticket, I'd be glad to hear about it.
 
 <div align="center">
-  <sub>Built with curiosity, discipline, and a bias toward shipping.</sub>
+
+[![Visit ExagonSoft](https://img.shields.io/badge/VISIT_EXAGONSOFT-020617?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://exagonsoft.uk/)
+[![Connect on LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msc-alvaro-raul-martin-peraza-165114210/)
+
+<br/><br/>
+
+<sub>BUILD · SOLVE · CREATE · IMPROVE</sub>
+
 </div>
