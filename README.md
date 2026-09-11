@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/exagonsoft/exagonsoft/main/assets/profile-hero.svg" alt="Álvaro Raúl Martín-Peraza — Senior Full-Stack Engineer and Product Builder" width="100%" />
+<img src="https://raw.githubusercontent.com/exagonsoft/exagonsoft/main/ExagonSoft.png" alt="Álvaro Raúl Martín-Peraza — Senior Full-Stack Engineer and Product Builder" width="100%" />
 
 <br/>
 
